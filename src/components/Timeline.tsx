@@ -38,6 +38,19 @@ function Timeline() {
               Developed responsive web components and dynamic websites using JS
             </p>
           </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            date="2021 - June 2025"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Bachelor of Science in Computer Science</h3>
+            <h4 className="vertical-timeline-element-subtitle">University of Education</h4>
+            <p>
+              • CGPA: 3.63 <br/>
+• Key Courses: Programming Fundamentals, OOP, Data Structures, Web Engineering, AI<br/>
+            </p>
+          </VerticalTimelineElement>
         </VerticalTimeline>
       </div>
     </div>
