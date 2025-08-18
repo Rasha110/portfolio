@@ -42,7 +42,7 @@ const Contact = () => {
             cursor: "pointer",
           }}
         >
-          <LinkedInIcon color="success" /> &nbsp; linkedin.com/in/rasha-faheem
+          <LinkedInIcon sx={{ color: "black" }} /> &nbsp; linkedin.com/in/rasha-faheem
         </Paper>
 
         {/* GitHub */}
@@ -62,7 +62,7 @@ const Contact = () => {
             cursor: "pointer",
           }}
         >
-          <GitHubIcon color="success" /> &nbsp; github.com/Rasha110
+          <GitHubIcon sx={{ color: "black" }} /> &nbsp; github.com/Rasha110
         </Paper>
 
         {/* Email */}
@@ -80,7 +80,7 @@ const Contact = () => {
             cursor: "pointer",
           }}
         >
-          <EmailIcon color="success" /> &nbsp; fahimrsha3@gmail.com
+          <EmailIcon sx={{ color: "black" }} /> &nbsp; fahimrsha3@gmail.com
         </Paper>
 
         {/* Phone */}
@@ -93,7 +93,7 @@ const Contact = () => {
             padding: "1rem",
           }}
         >
-          <PhoneIcon color="success" /> &nbsp; +92 315 4741516
+          <PhoneIcon sx={{ color: "black" }} /> &nbsp; +92 315 4741516
         </Paper>
       </Box>
     </Box>
