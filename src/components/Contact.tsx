@@ -69,7 +69,7 @@ const Contact = () => {
         <Paper
           className="contact-card"
           component="a"
-          href="mailto:hussain@example.com"
+          href="mailto:fahimrsha3@gmail.com"
           sx={{
             display: "flex",
             alignItems: "center",
