@@ -66,7 +66,7 @@ function Navigation({ parentToChild, modeChange }: any) {
         ))}
         {/* Resume link in mobile menu */}
         <ListItem disablePadding>
-          <ListItemButton sx={{ textAlign: 'center' }} component="a" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+          <ListItemButton sx={{ textAlign: 'center' }} component="a" href="/resume2.pdf" target="_blank" rel="noopener noreferrer">
             <ListItemText primary="Resume" />
           </ListItemButton>
         </ListItem>
@@ -110,7 +110,7 @@ function Navigation({ parentToChild, modeChange }: any) {
                 fontWeight: "bold"
               }}
               component="a"
-              href="/resume.pdf"
+              href="/resume2.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
